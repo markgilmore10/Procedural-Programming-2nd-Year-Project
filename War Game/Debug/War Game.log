@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\users\mark\documents\college\year 2\war game\war game\main.c(254): warning C4013: 'time' undefined; assuming extern returning int
+  War Game.vcxproj -> C:\Users\Mark\Documents\College\Year 2\War Game\Debug\War Game.exe
+  War Game.vcxproj -> C:\Users\Mark\Documents\College\Year 2\War Game\Debug\War Game.pdb (Partial PDB)
